@@ -60,7 +60,40 @@ streamlit run app.py
 
 ## Screenshots
 
-(Add screenshots here after uploading.)
+
+### Add Student
+
+![Add Student](images/add_student.png)
+
+---
+
+### View Students
+
+![View Students](images/view_students1.png)
+![View Students](images/view_students2.png)
+---
+
+### Search Student
+
+![Search Student](images/search_student.png)
+
+---
+
+### Update Student
+
+![Update Student](images/update_student.png)
+
+---
+
+### Statistics
+
+![Statistics](images/statistics.png)
+
+---
+
+### Dashboard
+
+![Dashboard](images/dashboard.png)
 
 ## Author
 
