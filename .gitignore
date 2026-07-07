@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+students.db
+students_export.csv
+.env
+.vscode/
